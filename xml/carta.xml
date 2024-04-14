@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <plato tipo="entrante">
+    <nombre>Patatas Boom:</nombre>
+    <precio>6,50€</precio>
+    <descripcion>Patatas bravas con salsa explosiva. (723 kcal)</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="entrante">
+    <nombre>Alitas Aladas en BBQ:</nombre>
+    <precio>8,99€</precio>
+    <descripcion>Alitas de pollo fritas y bañadas en salsa BBQ. (678 kcal)</descripcion>
+    <imagen>./img/gluten.png</imagen>
+  </plato>
+
+
+  <plato tipo="entrante">
+    <nombre>Pinchos Celestiales:</nombre>
+    <precio>5,99€</precio>
+    <descripcion>Brochetas de sabor divino. (329 kcal)</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="entrante">
+    <nombre>Pollo crispy:</nombre>
+    <precio>7,99€</precio>
+    <descripcion>Tiras de pollo marinadas para chuparse los dedos. (767 kcal)</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="entrante">
+    <nombre>Croqueticas de la Doña: </nombre>
+    <precio>12€</precio>
+    <descripcion>Croquetas crujientes y deliciosas de la casa. (1020 kcal)</descripcion>
+      <imagen>./img/pescado.png</imagen>
+  </plato>
+
+
+  <plato tipo="entrante">
+    <nombre>Empanadillas Misteriosas:</nombre>
+    <precio>2,5€/u</precio>
+    <descripcion>Bolsitas rellenas de sabor misterioso. (339 kcal)</descripcion>
+    <imagen>./img/gluten.png</imagen>
+  </plato>
+
+
+  <plato tipo="bebida">
+    <nombre>Agua del Monte:</nombre>
+    <precio>0,50€</precio>
+    <descripcion>Agua siempre operativa.</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="bebida">
+    <nombre>Refresco:</nombre>
+    <precio>1€</precio>
+    <descripcion>El mítico refresco, siempre apetecible.</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="bebida">
+    <nombre>Cerveza Fresca:</nombre>
+    <precio>1€</precio>
+    <descripcion>Nunca viene mal una gran cerveza fresquita.</descripcion>
+    <imagen>./img/gluten.png</imagen>
+  </plato>
+
+
+  <plato tipo="bebida">
+    <nombre>Cañita Barril:</nombre>
+    <precio>0,70€</precio>
+    <descripcion>Tampoco hay que pasarse.</descripcion>
+    <imagen>./img/gluten.png</imagen>
+  </plato>
+
+
+  <plato tipo="bebida">
+    <nombre>Cóctel Arco:</nombre>
+    <precio>4€</precio>
+    <descripcion>Manzana, pera, piña, ginebra, vodka. (208 kcal)</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="bebida">
+    <nombre>Cóctel Andresin:</nombre>
+    <precio>5€</precio>
+    <descripcion> Fresas frescas , ron blanco, azúcar y  soda. (178 kcal)</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="combinado">
+    <nombre>Parrillada Mixta:</nombre>
+    <precio>18.99€</precio>
+    <descripcion>Variedad de carnes a la parrilla con guarnición. (800 kcal)</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="combinado">
+    <nombre>Paella Mixta:</nombre>
+    <precio>19,99€</precio>
+    <descripcion> Arroz amarillo con mariscos, pollo, chorizo y verduras. (457 kcal)</descripcion>
+    <imagen>./img/marisco.png</imagen>
+  </plato>
+
+
+  <plato tipo="combinado">
+    <nombre>Pulpo a la Gallega con Pan con Tomate: </nombre>
+    <precio>14,99€</precio>
+    <descripcion>Pulpo cocido con patatas cocidas y pan untado con tomate. (299 kcal)</descripcion>
+    <imagen>./img/sin_alergenos.png</imagen>
+  </plato>
+
+
+  <plato tipo="combinado">
+    <nombre>Pinchos de Pollo con Gambas al Ajillo:</nombre>
+    <precio>13,50€</precio>
+    <descripcion>Brochetas de pollo marinado con gambas al ajillo. (999 kcal)</descripcion>
+    <imagen>./img/marisco.png</imagen>
+  </plato>
+
+
+  <plato tipo="combinado">
+    <nombre>Bocadillo de Calamares con Patatas Bravas:</nombre>
+    <precio>9,99€</precio>
+    <descripcion>Bocadillo de calamares fritos con salsa alioli y patatas bravas. (1120 kcal)</descripcion>
+    <imagen>./img/marisco.png</imagen>
+  </plato>
+
+
+  <plato tipo="postre">
+    <nombre>Flan de Huevo:</nombre>
+    <precio>3,99€</precio>
+    <descripcion>Cremoso, dulce, caramelo, postre clásico, deleite suave. (348 kcal)</descripcion>
+    <imagen>./img/huevo.png</imagen>
+  </plato>
+
+
+  <plato tipo="postre">
+    <nombre>Tarta de Santiago: </nombre>
+    <precio>5,20€</precio>
+    <descripcion>Almendra, suave, dulce, símbolo cruz de Santiago, tradicional. (298 kcal)</descripcion>
+    <imagen>./img/leche.png</imagen>
+  </plato>
+
+
+  <plato tipo="postre">
+    <nombre>Churros con Chocolate:</nombre>
+    <precio>6€</precio>
+    <descripcion>Fritos, azúcar, caliente, chocolate espeso, placer dulce, tradicional. (987 kcal)</descripcion>
+    <imagen>./img/huevo.png</imagen>
+  </plato>
+
+
+  <plato tipo="postre">
+    <nombre>Crema Catalana:</nombre>
+    <precio>3,50€</precio>
+    <descripcion>Canela, limón, crujiente, caramelo, exquisita, postre aromático. (347 kcal)</descripcion>
+    <imagen>./img/huevo.png</imagen>
+  </plato>
+
+    <plato tipo="vinos">
+    <nombre>Rioja Reserva:</nombre>
+    <precio>25€</precio>
+    <descripcion> Robusto, con cuerpo, envejecido, con notas de vainilla y frutos rojos.</descripcion>
+  </plato>
+
+      <plato tipo="vinos">
+    <nombre>Albariño:</nombre>
+    <precio>20€</precio>
+    <descripcion> Fresco, afrutado, con toques cítricos y florales, característico de Galicia</descripcion>
+  </plato>
+
+      <plato tipo="vinos">
+    <nombre>Ribera del Duero Crianza:</nombre>
+    <precio>30€</precio>
+    <descripcion> Complejo, equilibrado, con aromas a frutos negros, especias y madera sutil.</descripcion>
+  </plato>
+
+      <plato tipo="vinos">
+    <nombre>Rueda Verdejo:</nombre>
+    <precio>18€</precio>
+    <descripcion>Robusto, con cuerpo, envejecido, con notas de vainilla y frutos rojos.</descripcion>
+  </plato>
+</menu>
